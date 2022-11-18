@@ -9,4 +9,4 @@ console.log (colorFavourite); //CONSOLE PRINT
 
 const number = 22 //CONSTANT NUMBER
 //RESULT
-document.getElementById("name") .innerHTML = userName + " " + surName + " " + colorFavourite + " " + number
+document.getElementById("name") .innerHTML = userName + surName + colorFavourite + number;
