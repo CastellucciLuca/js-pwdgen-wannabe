@@ -9,7 +9,6 @@ div.box{
     align-items: center;
     justify-content: center;
 }
-div.box-name p{
+div.box p{
     font-size: 5rem;
-    text-transform: uppercase;
 }
